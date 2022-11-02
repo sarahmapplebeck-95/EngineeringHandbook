@@ -2,7 +2,7 @@
 
 ## General
 
-- **Do** tackle the difficult things early. Tough tasks left lurking can manifest 
+- **Do** tackle the difficult things early. Tough tasks left lurking can manifest
 into large blockers!
 - **Do** consider testing as early in the engineering process as possible.
 - **Do**  focus on the non-functionals
@@ -74,14 +74,14 @@ into large blockers!
 ## Database
 
 - **Do** design your data model up front.
- This includes your entity and attribute naming. 
+ This includes your entity and attribute naming.
  It doesn’t have to be perfect but having an entity-relationship (ER) diagram will
-  help aide understanding for your fellow developers.
+ help aide understanding for your fellow developers.
 - **Do** adopt (and document) a consistent naming convention
  (lower-case with underscores as separators is preferred).
 - **Do** consider performance early, ensure consideration is made around how
  data will be used and include suitable hooks that ensure data access is timely
-  e.g., suitable indexing, constraints, views and table structures.
+ e.g., suitable indexing, constraints, views and table structures.
 - **Do** ensure deployment and schema migration is automated
  and well proven so it is a simple automated step of a deployment process.
 - **Do** consider how a database will scale
@@ -102,9 +102,3 @@ into large blockers!
  a mono repository is often sufficient for most small projects,
   but multiple repositories maybe required (sensible) where
    autonomy allows for independent changes.
-
-
-
-
-
-
