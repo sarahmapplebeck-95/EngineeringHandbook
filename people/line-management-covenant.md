@@ -2,12 +2,12 @@
 
 ## Logistics
 
-- Under current COVID regulations (13/12/21) all meetings will be held virtually
-  via teams.
+- 1-2 meeting can be held in person o r virtually via teams.
 - 1-2-1s will be usually be scheduled fortnightly (probationary period or
   personal preference may mean this is more or less often. Details can be found
   in the [New Joiners Guidance](/guides/new-joiner)).
 - 1-2-1s will be scheduled no less frequently than monthly.
+- 1-2-1s can be scheduled via Lattice, in which you can add an agenda for the meet (see resources).
 - 1-2-1s should usually last between 30 minutes and 1 hour.
 - You are responsible for scheduling 1-2-1s. They should be scheduled to occur
   on a regular basis.
@@ -23,12 +23,8 @@
 
 ## Notes
 
-- You will keep your own notes and actions from any scheduled meetings.
-- You will complete the
-  [1-2-1 form](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx)
-  at least 24 hours prior to any scheduled 1-2-1 and e-mail it to me.
-- You will complete the post 1-2-1 form within 48 hours of any scheuled 1-2-1
-  and include any actions for follow up and e-mail it to me.
+- You will keep your own notes and actions from any scheduled meetings. These can be added to the meeting in Lattice.
+- Notes can be shared between 1-2-1 participants or kept private. 
 
 ## Commitments
 
@@ -53,7 +49,7 @@
 - Raise any issues/problems that I can help with at the earliest possible
   opportunity.
 - Being honest and as open as possible.
-- Produce relevant objectives and upload them into Staff Squared. A detailed
-  guide on this process can be found
-  [here](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx).
-- Keep Staff Squared up to date with progress of ongoing objectives.
+
+### Resources
+
+- Detailed guide to using Lattice can be found [here](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx). Covered is how to schedule 1-2-1s, set objectives and the responsibilities of parties involved. 
